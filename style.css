@@ -1,0 +1,27 @@
+html,
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  background-color: white;
+}
+/*
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+*/
+.jumboBackgroundImage {
+  background-image: url('../../../Pictures/Chris Portfolio pics/classic-hunter-nyc-cabs.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotronText {
+  background-color: rgba(0, 0, 0, 0.4); /* The opacity is 0.4 */
+  color: white;
+}
+
+.beginningInfo {
+  color: blue;
+}
