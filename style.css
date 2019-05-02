@@ -12,7 +12,7 @@ body {
 }
 */
 .jumboBackgroundImage {
-  background-image: url('.img/classic-hunter-nyc-cabs.jpg');
+  background-image: url('./img/classic-hunter-nyc-cabs.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
