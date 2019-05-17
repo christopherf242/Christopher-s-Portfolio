@@ -26,3 +26,7 @@ body {
 .beginningInfo {
   color: blue;
 }
+
+#projects {
+  text-align: center;
+}
