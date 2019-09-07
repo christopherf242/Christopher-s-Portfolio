@@ -30,3 +30,21 @@ body {
 #projects {
   text-align: center;
 }
+
+#works-cited-title {
+  text-align: center;
+}
+
+#works-cited {
+  text-align: left;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.cited-source {
+  text-align: left;
+  text-indent: 40px;
+}
+
+#bottom-nav {
+  text-align: center;
+}
