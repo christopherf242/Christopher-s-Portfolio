@@ -5,6 +5,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: rgb(45, 61, 86);
+  /*background-color: DeepSkyBlue; */
 }
 
 /* This next css selector helps make the navbar dropdown menu that's named Work Experience
